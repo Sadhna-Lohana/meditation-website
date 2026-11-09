@@ -52,7 +52,7 @@ sadhna Lohana
 
 Frontend Developer Website Project
 <br>
--Github:[Sadhna-Lohana] (https://github.com/Sadhna-Lohana)
+- Github:[Sadhna-Lohana] (https://github.com/Sadhna-Lohana)
 
 
 ## 📄 License
