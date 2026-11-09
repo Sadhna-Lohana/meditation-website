@@ -44,7 +44,8 @@ To run this project locally:
 
 ## 🌐 Live Demo
 
-[View Live Website](YOUR_NETLIFY_LIVE_URL)
+[View Live Website](https://innerpeace-meditation-landing-page.netlify.app/)
+
 
 ## 👩‍💻 Author
 
